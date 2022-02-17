@@ -5,7 +5,7 @@ Study project
 
 ## Hints
 
-* **Build project:** mvn package
+* **Build project:** mvn clean package
 * **Run app:** java -jar target/learning-spring-0.0.1-SNAPSHOT.jar
 * **Use postgresql docker instance:**
     * install postgresql
